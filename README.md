@@ -32,7 +32,7 @@ BFS: traversal, shortest path on unweighted graph, Bicolorable/Bipartite graph d
 4. MST: Kruskal's (+DSU)
 5. Greedy: Huffman coding, Interval scheduling (covered in lab before mid)
 
-6.Complexity Class: Constant, Polynomial, Exponential, P-NP
+6. Complexity Class: Constant, Polynomial, Exponential, P-NP
 7. Backtracking Algorithms: 8 queen Problem
 8. Backtracking Algorithms: 15 puzzle Problem
 
