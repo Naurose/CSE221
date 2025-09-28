@@ -26,16 +26,15 @@ Time complexity of recursive/DnC algorithms: recursion tree, substitution method
 BFS: traversal, shortest path on unweighted graph, Bicolorable/Bipartite graph detection, cycle detection (odd or even length)
 ---
 
-DFS: traversal (review), Edge classification, cycle detection
+1. DFS: traversal (review), Edge classification, cycle detection
+2. What is DAG, Topological ordering, Strongly Connected Components (SCC, Kosaraju's algo)
+3. Shortest path algo: What is SSSP and APSP, Dijkstra's algo, Bellman-Ford Algo (Negative-weight edges in play)
+4. MST: Kruskal's (+DSU)
+5. Greedy: Huffman coding, Interval scheduling (covered in lab before mid)
 
-What is DAG, Topological ordering, Strongly Connected Components (SCC, Kosaraju's algo)
-Shortest path algo: What is SSSP and APSP, Dijkstra's algo, Bellman-Ford Algo (Negative-weight edges in play)
-MST: Kruskal's (+DSU)
-Greedy: Huffman coding, Interval scheduling (covered in lab before mid)
+6.Complexity Class: Constant, Polynomial, Exponential, P-NP
+7. Backtracking Algorithms: 8 queen Problem
+8. Backtracking Algorithms: 15 puzzle Problem
 
-Complexity Class: Constant, Polynomial, Exponential, P-NP
-Backtracking Algorithms: 8 queen Problem
-Backtracking Algorithms: 15 puzzle Problem
-
-DP-1: Fractional vs 0-1 Knapsack
-DP-2: LCS, Recurrence relation, Properties: overlapping subprob and opt. substructure"
+9. DP-1: Fractional vs 0-1 Knapsack
+10. DP-2: LCS, Recurrence relation, Properties: overlapping subprob and opt. substructure"
