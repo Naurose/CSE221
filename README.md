@@ -3,7 +3,7 @@ Algorithms Analysis & Design
 
 Topics Covered in the repo:
 "1. Introduction: Algorithms for accuracy, efficiency (space, time); Algorithms in real world
-2. Time Complexity (recap): RAM Model, Loop iterations vs execution time, Growth Functions, best-worst scenario"
+2. Time Complexity: RAM Model, Loop iterations vs execution time, Growth Functions, best-worst scenario"
 
 "Searching algorithms
 1. Binary: Logical explanation on the logarithmic time complexity, fitness/feedback function, finding upper - lower bound
@@ -27,13 +27,15 @@ BFS: traversal, shortest path on unweighted graph, Bicolorable/Bipartite graph d
 ---
 
 DFS: traversal (review), Edge classification, cycle detection
+
 What is DAG, Topological ordering, Strongly Connected Components (SCC, Kosaraju's algo)
 Shortest path algo: What is SSSP and APSP, Dijkstra's algo, Bellman-Ford Algo (Negative-weight edges in play)
 MST: Kruskal's (+DSU)
-
 Greedy: Huffman coding, Interval scheduling (covered in lab before mid)
+
 Complexity Class: Constant, Polynomial, Exponential, P-NP
 Backtracking Algorithms: 8 queen Problem
 Backtracking Algorithms: 15 puzzle Problem
+
 DP-1: Fractional vs 0-1 Knapsack
 DP-2: LCS, Recurrence relation, Properties: overlapping subprob and opt. substructure"
